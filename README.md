@@ -24,14 +24,14 @@ O portfólio está dividido em quatro partes principais:
 
 ---
 
-[![O Que é um Sistema Operativo](https://img.shields.io/badge/Definição--Sistema%20Operativo-28A745?style=for-the-badge)](apontamentos/definicao_sistema_operativo.md.md) <br>
+[![O Que é um Sistema Operativo](https://img.shields.io/badge/Definição--Sistema%20Operativo-28A745?style=for-the-badge)](apontamentos/definicao_sistema_operativo.md) <br>
 
 
 ### Fichas
 
 ---
 
-[![Conversões entre Decimal e Binário](https://img.shields.io/badge/Conversões-Decimal--Binário-orange?style=for-the-badge)](fichas/sistemas_numeracao/conversoes_binario_decimal.md) <br>
+[![Trabalho Prático 1](https://img.shields.io/badge/Trabalho%20Prático%201?style=for-the-badge)](fichas/trabalho_pratico_1.md) <br>
 
 
 ### Outros
