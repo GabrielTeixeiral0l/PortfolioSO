@@ -24,7 +24,7 @@ O portfólio está dividido em quatro partes principais:
 
 ---
 
-[![Sistema Digital](https://img.shields.io/badge/Sistema%20Digital-28A745?style=for-the-badge)](apontamentos/sistema_digital.md) <br>
+[![O Que é um Sistema Operativo](https://img.shields.io/badge/Definição--Sistema%20Operativo-28A745?style=for-the-badge)](apontamentos/definicao_sistema_operativo.md.md) <br>
 
 
 ### Fichas
