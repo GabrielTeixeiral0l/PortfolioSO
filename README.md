@@ -50,6 +50,7 @@ O portfólio está dividido em quatro partes principais:
 [![Trabalho Prático 1](https://img.shields.io/badge/Trabalho%20Prático%201-28A745?style=for-the-badge)](fichas/trabalho_pratico_1.pdf) <br>
 [![Trabalho Prático 2](https://img.shields.io/badge/Instalação%20do%20POP!_OS-28A745?style=for-the-badge)](fichas/trabalho_pratico_2.pdf) <br>
 [![Trabalho Prático 3](https://img.shields.io/badge/Linha%20de%20comandos%20Linux-28A745?style=for-the-badge)](fichas/trabalho_pratico_3.pdf) <br>
+[![Trabalho Prático 4](https://img.shields.io/badge/Trabalho%20Prático%204-28A745?style=for-the-badge)](fichas/trabalho_pratico_4.pdf) <br>
 
 ### Outros
 
