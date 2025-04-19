@@ -1,12 +1,29 @@
 # Sistema Operativo &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
-Um Sistema Operativo (SO) é um software que atua como intermediário entre o hardware do computador e os programas do utilizador. Ele gere os recursos do sistema, como o processador, a memória e os dispositivos de entrada e saída, garantindo que diferentes aplicações possam ser executadas de forma eficiente e segura.
+Um **Sistema Operativo (SO)** é um software essencial que gere os recursos de um sistema informático, fornecendo uma interface entre o utilizador e o hardware. Ele permite a execução de aplicações de forma eficiente, segura e independente da configuração física do dispositivo.
 
-As principais funções de um sistema operativo incluem:
-- Gestão de processos – controlo da execução de programas e alocação do processador.
-- Gestão de memória – alocação e libertação de memória para diferentes aplicações.
-- Gestão de ficheiros – organização, armazenamento e acesso a dados no sistema de ficheiros.
-- Gestão de dispositivos – comunicação com periféricos como discos, impressoras e teclados.
-- Interface com o utilizador – fornecimento de um ambiente interativo, seja em linha de comandos ou gráfico.
+## Objetivos de um Sistema Operativo
 
-Exemplos de sistemas operativos incluem Windows, Linux, macOS e Android.
+- **Suportar eficientemente as aplicações**.
+- **Garantir segurança e fiabilidade** das operações.
+- **Abstrair os recursos físicos**, oferecendo aos utilizadores um conjunto de recursos lógicos.
+- **Criar uma máquina virtual** sobre o hardware, garantindo independência face à configuração física.
+- **Gerir recursos** e estabelecer uma política de segurança global na gestão dos mesmos.
+
+![[Pasted image 20250316151900.png]]
+## Importância dos Sistemas Operativos
+
+Os Sistemas Operativos têm vindo a evoluir desde a década de 1960 e são um dos pilares da arquitetura dos sistemas informáticos. Entre as principais razões para estudar Sistemas Operativos destacam-se:
+
+1. **Definição funcional do uso do dispositivo** – O SO caracteriza a "máquina informática" e define a sua interface de operação.
+2. **Criação de uma máquina virtual independente do hardware** – Virtualiza os mecanismos de hardware e proporciona uma camada de abstração.
+3. **Fornecimento de um ambiente seguro para execução de aplicações** – As aplicações executam-se em modo não privilegiado e não têm acesso direto ao hardware.
+4. **Interfaces do SO** – O SO disponibiliza interfaces operacionais e programáticas (chamadas de sistema) que permitem aos programadores estenderem o ambiente de programação.
+
+## Funções de um Sistema Operativo
+
+- **Gestão de processos** – Controlo da execução de programas.
+- **Gestão de memória** – Alocação e proteção da memória.
+- **Gestão de dispositivos** – Controlo de periféricos e dispositivos de entrada/saída.
+- **Gestão de ficheiros** – Organização e controlo de acesso a ficheiros.
+- **Segurança e proteção** – Definição de políticas de acesso e isolamento de processos.
