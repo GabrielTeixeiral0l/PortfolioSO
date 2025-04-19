@@ -63,4 +63,5 @@ O portfólio está dividido em quatro partes principais:
 
 ##### Videos 
 
+[![Correção de erro VirtualBox - "Missing Dependencies"](https://img.shields.io/badge/youtube-Correção%20de%20erro%20VirtualBox:%20"Missing%20Dependencies"-FF0000?style=for-the-badge)](https://www.youtube.com/watch?v=IvPdhh70OGM)
 ---
