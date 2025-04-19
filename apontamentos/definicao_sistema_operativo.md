@@ -10,7 +10,8 @@ Um **Sistema Operativo (SO)** é um software essencial que gere os recursos de u
 - **Criar uma máquina virtual** sobre o hardware, garantindo independência face à configuração física.
 - **Gerir recursos** e estabelecer uma política de segurança global na gestão dos mesmos.
 
-![[Pasted image 20250316151900.png]]
+![Pasted image 20250316151900](https://github.com/user-attachments/assets/744bc136-c018-44a1-abb6-1598b6753e2f)
+
 ## Importância dos Sistemas Operativos
 
 Os Sistemas Operativos têm vindo a evoluir desde a década de 1960 e são um dos pilares da arquitetura dos sistemas informáticos. Entre as principais razões para estudar Sistemas Operativos destacam-se:
