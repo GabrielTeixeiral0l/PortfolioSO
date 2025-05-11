@@ -1,7 +1,5 @@
 # Sistema de Ficheiros &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
-# Sistema de Ficheiros
-
 ## O que é um Ficheiro?
 
 - Um `ficheiro` é uma coleção de dados persistentes, identificada por um nome.
