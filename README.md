@@ -45,7 +45,7 @@ O portfólio está dividido em quatro partes principais:
 ---
 
 [![O Que é um Sistema Operativo](https://img.shields.io/badge/Definição--Sistema%20Operativo-28A745?style=for-the-badge)](apontamentos/definicao_sistema_operativo.md) <br>
-
+[![Critérios de Qualidade de um SO](https://img.shields.io/badge/Critérios%20de%20Qualidade%20de%Sistemas%20Operativos-28A745?style=for-the-badge)](apontamentos/criterios_qualidade.md) <br>
 
 ### Fichas
 
