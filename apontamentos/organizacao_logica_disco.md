@@ -1,5 +1,6 @@
 
-# Organização Lógica de um Disco
+# Organização Lógica de um Disco &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
+
 
 ## Estrutura Base de uma Partição
 - **Boot block**: contém código carregado para RAM no arranque.
