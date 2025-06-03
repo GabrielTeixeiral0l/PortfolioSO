@@ -47,7 +47,7 @@ O portfólio está dividido em quatro partes principais:
 [![O Que é um Sistema Operativo](https://img.shields.io/badge/Definição--Sistema%20Operativo-28A745?style=for-the-badge)](apontamentos/definicao_sistema_operativo.md)<br/>
 [![Critérios de Qualidade de um SO](https://img.shields.io/badge/Critérios%20de%20Qualidade%20de%20Sistemas%20Operativos-28A745?style=for-the-badge)](apontamentos/criterios_qualidade.md)<br/>
 [![Sistema de Ficheiros](https://img.shields.io/badge/Sistema%20de%20Ficheiros%20-28A745?style=for-the-badge)](apontamentos/ficheiros.md)<br/>
-
+[![organização Lógica de um Disco](https://img.shields.io/badge/Organização%20lógica%20de%20um%20disco-28A745?style=for-the-badge)](apontamentos/organizacao_logica_disco.md)<br/>
 ### Fichas
 
 ---
@@ -56,6 +56,7 @@ O portfólio está dividido em quatro partes principais:
 [![Trabalho Prático 2](https://img.shields.io/badge/Instalação%20do%20POP!_OS-orange?style=for-the-badge)](fichas/trabalho_pratico_2.pdf) <br>
 [![Trabalho Prático 3](https://img.shields.io/badge/Linha%20de%20comandos%20Linux-orange?style=for-the-badge)](fichas/trabalho_pratico_3.pdf) <br>
 [![Trabalho Prático 4](https://img.shields.io/badge/Trabalho%20Prático%204-orange?style=for-the-badge)](fichas/trabalho_pratico_4.pdf) <br>
+[![exercicios feitos em aula](https://img.shields.io/badge/Exercicios%20dia%2023%20de%20maio-orange?style=for-the-badge)](fichas/trabalho_pratico_4.pdf) <br>
 
 ### Outros
 
