@@ -1,4 +1,4 @@
-## Constituição do Sistema Operativo &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
+# Constituição do Sistema Operativo &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
 - **Abstração**: O SO fornece uma interface abstrata sobre o hardware, escondendo complexidades como comunicação com periféricos (SPI, I²C, etc.), erros e múltiplos paradigmas.
 
