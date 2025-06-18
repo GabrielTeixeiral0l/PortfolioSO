@@ -42,7 +42,9 @@ O portfólio está dividido em quatro partes principais:
 
 [![Aula 12 - 04-06-2025](https://img.shields.io/badge/Aula%2012-04--06--2025-blue?style=for-the-badge)](aulas/04-06-2025.md) <br/>
 [![Aula 13 - 13-06-2025](https://img.shields.io/badge/Aula%2013-13--06--2025-blue?style=for-the-badge)](aulas/13-06-2025.md) <br/>
-
+[![Aula 14 - 16-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/16-06-2025.md) <br/>
+[![Aula 15 - 17-06-2025](https://img.shields.io/badge/Aula%2015-17--06--2025-blue?style=for-the-badge)](aulas/17-06-2025.md) <br/>
+[![Aula 16 - 18-06-2025](https://img.shields.io/badge/Aula%2016-18--06--2025-blue?style=for-the-badge)](aulas/18-06-2025.md) <br/>
 
 ### Apontamentos
 
@@ -52,6 +54,8 @@ O portfólio está dividido em quatro partes principais:
 [![Critérios de Qualidade de um SO](https://img.shields.io/badge/Critérios%20de%20Qualidade%20de%20Sistemas%20Operativos-28A745?style=for-the-badge)](apontamentos/criterios_qualidade.md)<br/>
 [![Sistema de Ficheiros](https://img.shields.io/badge/Sistema%20de%20Ficheiros%20-28A745?style=for-the-badge)](apontamentos/ficheiros.md)<br/>
 [![organização Lógica de um Disco](https://img.shields.io/badge/Organização%20lógica%20de%20um%20disco-28A745?style=for-the-badge)](apontamentos/organizacao_logica_disco.md)<br/>
+
+
 ### Fichas
 
 ---
