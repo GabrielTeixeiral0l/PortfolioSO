@@ -73,10 +73,6 @@ O portfólio está dividido em quatro partes principais:
 
 [![VirtualBox - Máquinas Virtuais](https://img.shields.io/badge/VirtualBox%20-%20Máquinas%20Virtuais-purple?style=for-the-badge)](https://www.virtualbox.org/)
 
-##### Curiosidades
-
-##### Conteúdos adicionais
-
 ##### Videos 
 
 [![Correção de erro VirtualBox - "Missing Dependencies"](https://img.shields.io/badge/youtube-Correção%20de%20erro%20VirtualBox:%20"Missing%20Dependencies"-FF0000?style=for-the-badge)](https://www.youtube.com/watch?v=IvPdhh70OGM)
